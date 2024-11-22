@@ -1,4 +1,6 @@
-# INSIDIOUS
+ # <center>INSIDIOUS</center>
+
+![ for image ](https://th.bing.com/th?q=Minesweeper+Mine+Icon&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=strict&t=1&mw=247)
 
 Welcome to the Insidious Fan Page! This project is dedicated to the supernatural horror film series "Insidious," which follows a family as they confront malevolent spirits threatening their son. The website provides information about the films, links to chapters, and a store for fans.
 
