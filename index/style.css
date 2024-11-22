@@ -1,0 +1,217 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    cursor: url(cursor/ga.cur),pointer;
+    font-family: "Creepster", serif;
+    font-size:large;
+    
+ }
+
+ body {
+  background: black;
+  font-size: 14px;
+  color: #780e0e;
+  margin: 10px;
+  padding: 1px;
+}
+
+ header{
+  display: flex;
+  justify-content: space-between;
+  height:70px;
+  letter-spacing: 4px;
+}
+ 
+header img{
+      width: 170px;
+      height: 50px;  
+      padding: 3px;
+      margin-top: 14px;
+      display: flex;
+      justify-content: space-around;      
+ }
+    
+ nav{
+  display: flex;
+  justify-content: space-around;
+  height: 100%;
+  width: 70%;
+  align-items: center;
+  justify-content: end;
+  font-weight: bold;
+}
+
+.hamburger{
+  display: none;
+}
+
+
+  a{
+    background-color: transparent;
+    border:none;
+   }
+
+ header a{
+   text-decoration: none;
+   color: #f51515;
+   padding: 1px;
+    margin: 0px 10px;
+    font-size: 100%;
+  }
+
+  header a:hover{
+    color: #f0e9e9;
+  }
+  
+
+  #write span,p{
+    color:rgb(180, 176, 176);
+}
+
+  iframe{
+    width: 80%;
+    height: 70%;
+     aspect-ratio: 860/515;
+}
+
+   main section{
+      display: flex;
+      justify-content: space-around;
+      margin-right: -30px;
+      
+   }
+
+  main img{
+      width:  91%;  
+      height: 91%;
+      object-fit:fit;
+  }
+
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+}
+
+
+swiper-container {
+    width: 100%; 
+    max-width: 1200px;
+    margin: 0 auto; 
+}
+
+
+swiper-slide img {
+    width: 100%; 
+    height: 100%; 
+}
+
+
+swiper-container {
+    padding: 20px; 
+}    
+          
+
+         footer 
+          #p img{
+            border-radius: 50%;
+            border: 3px rgb(77, 75, 75) solid;
+            height:200px;
+            width:200px;  
+            margin-top:19px; 
+        }
+         
+        footer {
+          color:red;
+          font-weight: 700;
+          font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+          display: flex;
+          justify-content: space-between;
+          margin: 80px 130px;
+          font-size: 25px;
+          flex-wrap:wrap;
+          align-items: center;
+        }
+
+         footer #p1 img{
+          height:30px;
+          width : 40px;
+          filter: invert(1);
+        }
+      
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: right;
+  padding: 10px;
+}
+
+
+@media (max-width: 768px) {  
+  header img{
+    width: 70px;
+    height: 30px;
+  }
+  
+  nav {
+      text-align: center;
+      line-height: 10px;
+      font-size: 1px;
+      margin-left: 10px;
+  } 
+  
+  nav a{
+    font-size: 15px;
+    padding: 0px;
+     }
+
+     main section{
+      align-items: center;
+      margin-left: 10px;
+      margin-right: 0.1px;
+  }
+   
+ 
+
+  footer{
+    flex-direction: column;
+  }
+
+  #f {
+      text-align: center;
+  }
+
+  section#end,footer #p{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+
+  section#end a, footer{
+      margin: 10px 7px;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+      font-size: 24px;
+  }
+
+  nav a {
+      font-size: 12px;
+      padding: 0px;
+         
+  }
+
+  footer {
+      font-size: 12px;
+  }
+}
