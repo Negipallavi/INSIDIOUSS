@@ -15,7 +15,7 @@ Swiper Carousel: A visually appealing carousel displaying film posters that link
 Contact Links: Easy access to social media and email for fan engagement.
 
 ## Technologies Used
-HTML5
+HTML5 <br>
 CSS3
 JavaScript
 Swiper.js for the carousel
