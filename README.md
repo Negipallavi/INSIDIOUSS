@@ -15,24 +15,14 @@ Swiper Carousel: A visually appealing carousel displaying film posters that link
 Contact Links: Easy access to social media and email for fan engagement.
 
 ## Technologies Used
-HTML5 <br>
-CSS3
-JavaScript
-Swiper.js for the carousel
-WOW.js for animations
+HTML5 , CSS3 , JavaScript , Swiper.js for the carousel , WOW.js for animations.
 
 ## Usage
-Navigate through the website using the navigation links in the header.
-Click on the film posters in the carousel or the summary section to access individual chapters.
+Navigate through the website using the navigation links in the header.<br>
+Click on the film posters in the carousel or the summary section to access individual chapters.<br>
 Use the contact section to reach out for discussions or inquiries.
-Contributing
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
 ## Contact
 For any inquiries or discussions, feel free to reach out to me:
 
-LinkedIn: Pallavi Negi
-GitHub: Negipallavi
-CodePen: Pallavi-Negi-the-selector
-Email: pallavinegi2503@gmail.com
 Thank you for visiting the Insidious Fan Page! Enjoy exploring the dark realm of the Insidious series!
