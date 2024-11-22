@@ -44,5 +44,6 @@ For any inquiries or discussions, feel free to reach out to me:
 <a href="https://www.linkedin.com/in/pallavi-negi-25p"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="27" alt="linkedin logo"></a>
 <a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="27" alt="gmail logo" ></a>
 <a href="https://github.com/Negipallavi/Negipallavi"> <img src="https://skillicons.dev/icons?i=github" width="42" height="27" alt="linkedin logo"></a>
+<br>
 
 Thank you for visiting the Insidious Fan Page! Enjoy exploring the dark realm of the Insidious series!
